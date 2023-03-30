@@ -1,4 +1,4 @@
-<h1 align="center">Class 1</h1>
+<h1 align="center">Class 1: Onboarding</h1>
 
 <div align="center">
 Learning process - Back-end with Java | Globant University - Class 1
