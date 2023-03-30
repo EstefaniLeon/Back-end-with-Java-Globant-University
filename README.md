@@ -1,4 +1,4 @@
-<h1 align="center">Back-end-with-Java-Globant-University</h1>
+<h1 align="center">Back End with Java - Globant University</h1>
 
 <div align="center">
 Back-end with Java | Globant University Learning process and exercises program from <a href="https://globant.eggcooperation.com/" target="_blank">Globant and Egg cooperation</a>
