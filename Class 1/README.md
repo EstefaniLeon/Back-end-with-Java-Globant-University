@@ -42,7 +42,7 @@ _Technologies used in the project:_
 - [devChallenge.io](https://devchallenges.io/portfolio/EstefaniLeon)
 - [LinkedIn](https://www.linkedin.com/in/estefani-leon-osorio-34a56a244/)
 
-## Author
+## Author ✒️
 
 _If you have some feedback or like what I do, give me a DM and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
 
