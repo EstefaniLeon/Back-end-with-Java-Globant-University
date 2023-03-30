@@ -39,7 +39,6 @@ _Technologies used in the project:_
 
 - [GitHub](https://github.com/EstefaniLeon)
 - [Twitter](https://twitter.com/Esleos1)
-- [devChallenge.io](https://devchallenges.io/portfolio/EstefaniLeon)
 - [LinkedIn](https://www.linkedin.com/in/estefani-leon-osorio-34a56a244/)
 
 ## Author ✒️
