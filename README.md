@@ -11,6 +11,7 @@ Back-end with Java | Globant University Learning process and exercises program f
 - [Class 1](https://github.com/EstefaniLeon/Back-end-with-Java-Globant-University/tree/main/Class%201)
 - [Class 2](https://github.com/EstefaniLeon/Back-end-with-Java-Globant-University/tree/main/Class%202)
 - [Class 3](https://github.com/EstefaniLeon/Back-end-with-Java-Globant-University/tree/main/Class%203)
+- [Class 4](https://github.com/EstefaniLeon/Back-end-with-Java-Globant-University/tree/main/Class%204)
 
 <!-- CONTACT -->
 
