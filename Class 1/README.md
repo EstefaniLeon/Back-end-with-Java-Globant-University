@@ -60,12 +60,7 @@ Write a program that reads two integers and performs the calculation of addition
 
 ## Objective:
 
-- Improve logical thinking.
-- Cooperation with the work team.
-- Learn about basic structures.
-- Learn about variables.
-- Learn about reading and writing instructions.
-- Learn about algebraic operators.
+- Onboarding to the Backend development program.
 
 <!-- BUILD WITH -->
 
@@ -74,6 +69,7 @@ Write a program that reads two integers and performs the calculation of addition
 _Technologies used in the project:_
 
 - [PSeint](https://pseint.sourceforge.net/) - PSeudocode Interpreter Tool.
+- [Scratch](https://scratch.mit.edu/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -82,9 +78,7 @@ _Technologies used in the project:_
 - [Algorithm examples in PSeint](https://pseint.sourceforge.net/index.php?page=ejemplos.php)
 - [My first program](https://www.youtube.com/playlist?list=PLgwlfcqa5h3y6zGNWrZa20YaWX9nziO38)
 - [Features and Functionalities of PSeInt](https://pseint.sourceforge.net/index.php?page=features.php)
-- [Variable](https://es.wikipedia.org/wiki/Variable_(programaci%C3%B3n)
-- [Type of data](https://es.wikipedia.org/wiki/Tipo_de_dato)
-- [Algebraic operators](https://pseint.sourceforge.net/index.php?page=pseudocodigo.php)
+- [Scratch](https://scratch.mit.edu/)
 
 <!-- CONTACT -->
 
